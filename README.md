@@ -1,1 +1,3 @@
-#this is for learning purpose for himalaya college of engineering
+#this is for learning purpose for himalaya college of engineering by Bhupendra
+
+# This is for learning purpose for Himalaya College of Engineering
